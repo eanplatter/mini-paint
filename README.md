@@ -152,16 +152,4 @@ Which is doable, but let's just put those in a variable so we don't have to writ
   })
 
 ```
-And we're all set! Feel free to play around and create some more features of your own! 
-
-
-
-
-
-
-
-
-
-
-
-
+And we're all set! Feel free to play around and create some more features of your own!
