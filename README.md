@@ -1,6 +1,6 @@
 # Understanding jQuery - Paint
 
-This project will help us better understand basic DOM manipulation by creating a pain program! Much like Microsoft Paint.
+This project will help us better understand basic DOM manipulation by creating a paint program! Much like Microsoft Paint.
 
 Our index.html has 5400 divs on it. These divs are little black squares. These squares will each act as a pixel in our paint application. We shouldn't have to worry about our html or css in this project. Just our JavaScript file named app.js
 
